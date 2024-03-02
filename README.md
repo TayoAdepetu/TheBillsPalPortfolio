@@ -104,15 +104,14 @@ hobbies: ["Watching Movies", "Talking Politics", "Coding", "Writing About Market
 
 <br/>
 
-<p>
+<div style="display: flex; justify-content: space-between;">
 
 [![Tayo Adepetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayoAdepetu&show_icons=true&theme=highcontrast)](https://github.com/TayoAdepetu/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayoAdepetu&langs_count=10&layout=compact)](https://github.com/TayoAdepetu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayoAdepetu&langs_count=10&layout=pie)](https://github.com/TayoAdepetu/github-readme-stats)
-
-</p>
-
-<div>
-![Snake animation](https://github.com/TayoAdepetu/TayoAdepetu/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<br/>
+
+![Snake animation](https://github.com/TayoAdepetu/TayoAdepetu/blob/output/github-contribution-grid-snake.svg)
