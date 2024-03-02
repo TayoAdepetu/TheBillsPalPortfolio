@@ -54,7 +54,7 @@ hobbies: ["Watching Movies", "Talking Politics", "Coding", "Writing About Market
 <h2>Some Tools I Use</h2>
 
 <div align="center">
-<img styles="width:66px; height:76px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width=66px; height=76px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
