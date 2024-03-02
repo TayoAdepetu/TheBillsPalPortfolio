@@ -102,9 +102,9 @@ hobbies: ["Watching Movies", "Talking Politics", "Coding", "Writing About Market
                             
 </div>
 
+<div style="display:flex">
 
 [![Tayo Adepetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayoAdepetu&show_icons=true&theme=highcontrast)](https://github.com/TayoAdepetu/github-readme-stats)
-<div display=flex>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayoAdepetu&langs_count=10&layout=pie)](https://github.com/TayoAdepetu/github-readme-stats)
