@@ -53,8 +53,8 @@ hobbies: ["Watching Movies", "Talking Politics", "Coding", "Writing About Market
 <br/>
 <h2>Some Tools I Use</h2>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<div align="center">
+<img styles="width:66px; height:76px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
@@ -100,7 +100,7 @@ hobbies: ["Watching Movies", "Talking Politics", "Coding", "Writing About Market
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
                       
                             
-</p>
+</div>
 
 <div>
 [![Tayo Adepetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayoAdepetu)](https://github.com/TayoAdepetu/github-readme-stats)
