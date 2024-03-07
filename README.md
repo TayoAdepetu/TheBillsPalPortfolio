@@ -19,7 +19,7 @@ name: Tayo Adepetu (TheMarketingCoder)
 
 location: Lagos, Nigeria
 
-current_job: Full-stack PHP/Laravel + VueJS/NuxtJS Developer and Marketing Coach
+current_job: Backend PHP/Laravel + VueJS/NuxtJS Developer and Marketing Coach
 
 education: [
     "Self-taught Web Developer and Marketing Coach",
