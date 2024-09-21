@@ -1,6 +1,7 @@
 <h1 align="center">
   BillsPal
 </h1>
+<small align="center">Please note that this GitHub repository is just to serve as a public reference for the main Private repo.</small>
 
 <h2>A Little About BillsPal</h2>
 
